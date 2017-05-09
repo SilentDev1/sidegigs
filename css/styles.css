@@ -428,6 +428,7 @@ section#download .container .btn-group.small .btn:hover {
 section#settings {
   color: white;
   background: #fa4459;
+  padding-bottom: 0;
 }
 section#settings img {
   margin-left: 30px;
