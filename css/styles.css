@@ -221,11 +221,11 @@ header.masthead .mh-slider {
   transition: all 0.25s ease-in-out;
 }
 #nav .navbar-nav li a:hover {
-  color: #de5749;
+  color: #fa4459;
   background: none;
 }
 #nav .navbar-nav li.active a {
-  color: #de5749;
+  color: #fa4459;
 }
 #nav .navbar-nav.social {
   margin-left: 15px;
@@ -243,7 +243,7 @@ header.masthead .mh-slider {
   color: gray;
 }
 #nav .navbar-nav.social li:hover {
-  background: #de5749;
+  background: #fa4459;
 }
 #nav .navbar-nav.social li:hover a i {
   color: white;
@@ -253,7 +253,7 @@ section {
   padding: 75px 0;
 }
 section#features {
-  background: #de5749;
+  background: #fa4459;
 }
 section#features .feature {
   text-align: center;
@@ -460,10 +460,10 @@ section#screenshots .section-heading h3 {
   color: #999999;
 }
 section#screenshots .section-heading h3 span {
-  color: #de5749;
+  color: #fa4459;
 }
 section#screenshots .section-heading .divider {
-  background: #de5749;
+  background: #fa4459;
 }
 section#screenshots .section-heading p {
   color: #999999;
@@ -488,8 +488,8 @@ section#screenshots .owl-next i, section#screenshots .owl-prev i {
   transition: all 0.25s ease-in-out;
 }
 section#screenshots .owl-next:hover i, section#screenshots .owl-prev:hover i {
-  color: #de5749;
-  border-color: #de5749;
+  color: #fa4459;
+  border-color: #fa4459;
 }
 section#screenshots .owl-next i {
   padding-right: inherit;
@@ -660,7 +660,7 @@ section#testimonials .carousel .carousel-indicators li.active {
   height: 18px;
 }
 section#team {
-  background: #de5749;
+  background: #fa4459;
 }
 section#team .car-next, section#team .car-prev {
   text-align: center;
@@ -752,10 +752,10 @@ section#team .member:hover {
   color: #555555;
 }
 section#team .member:hover .media-heading {
-  color: #de5749;
+  color: #fa4459;
 }
 section#team .member:hover .media-heading ul li a i {
-  color: #de5749;
+  color: #fa4459;
 }
 section#team .member:hover span.divider {
   background: #555555;
@@ -987,7 +987,7 @@ footer .rights a {
 }
 .btn.btn-empty:hover {
   background: white;
-  color: #de5749;
+  color: #fa4459;
 }
 
 a {
