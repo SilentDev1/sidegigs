@@ -69,7 +69,7 @@ header.masthead .mh-slider {
   font-weight: bold;
 }
 #slider .container h1 {
-  color: #de5749;
+  color: #fa4459;
   margin-top: 70px;
 }
 #slider .container h3 {
@@ -427,7 +427,7 @@ section#download .container .btn-group.small .btn:hover {
 }
 section#settings {
   color: white;
-  background: #de5749;
+  background: #fa4459;
 }
 section#settings img {
   margin-left: 30px;
@@ -974,7 +974,7 @@ footer .rights a {
 
 .btn.btn-default {
   background: white;
-  color: #de5749;
+  color: #fa4459;
 }
 .btn.btn-default:hover {
   background: none;
